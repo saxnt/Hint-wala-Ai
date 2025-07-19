@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saxnt/Hint-wala-Ai/static/css/main.ee47c4ff.css",
+    "main.js": "/saxnt/Hint-wala-Ai/static/js/main.fbba220c.js",
+    "static/js/453.670e15c7.chunk.js": "/saxnt/Hint-wala-Ai/static/js/453.670e15c7.chunk.js",
+    "index.html": "/saxnt/Hint-wala-Ai/index.html",
+    "main.ee47c4ff.css.map": "/saxnt/Hint-wala-Ai/static/css/main.ee47c4ff.css.map",
+    "main.fbba220c.js.map": "/saxnt/Hint-wala-Ai/static/js/main.fbba220c.js.map",
+    "453.670e15c7.chunk.js.map": "/saxnt/Hint-wala-Ai/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee47c4ff.css",
+    "static/js/main.fbba220c.js"
+  ]
+}
