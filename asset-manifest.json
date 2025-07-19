@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/saxnt/Hint-wala-Ai/static/css/main.ee47c4ff.css",
-    "main.js": "/saxnt/Hint-wala-Ai/static/js/main.72272ab7.js",
-    "static/js/453.670e15c7.chunk.js": "/saxnt/Hint-wala-Ai/static/js/453.670e15c7.chunk.js",
-    "index.html": "/saxnt/Hint-wala-Ai/index.html",
-    "main.ee47c4ff.css.map": "/saxnt/Hint-wala-Ai/static/css/main.ee47c4ff.css.map",
-    "main.72272ab7.js.map": "/saxnt/Hint-wala-Ai/static/js/main.72272ab7.js.map",
-    "453.670e15c7.chunk.js.map": "/saxnt/Hint-wala-Ai/static/js/453.670e15c7.chunk.js.map"
+    "main.css": "/Hint-wala-Ai/static/css/main.ee47c4ff.css",
+    "main.js": "/Hint-wala-Ai/static/js/main.01285c57.js",
+    "static/js/453.670e15c7.chunk.js": "/Hint-wala-Ai/static/js/453.670e15c7.chunk.js",
+    "index.html": "/Hint-wala-Ai/index.html",
+    "main.ee47c4ff.css.map": "/Hint-wala-Ai/static/css/main.ee47c4ff.css.map",
+    "main.01285c57.js.map": "/Hint-wala-Ai/static/js/main.01285c57.js.map",
+    "453.670e15c7.chunk.js.map": "/Hint-wala-Ai/static/js/453.670e15c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee47c4ff.css",
-    "static/js/main.72272ab7.js"
+    "static/js/main.01285c57.js"
   ]
 }
